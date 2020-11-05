@@ -1,0 +1,33 @@
+body {
+  //background-color: #24A2B2  ;
+  //background-image: linear-gradient(#007b8a, #a2d5c6);
+  background-image: linear-gradient(#8a307f, #79a7d3, #6883bc);
+  //opacity: 0.5;
+}
+h1 {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px #000000;
+  text-align: center;
+  
+}
+
+h1:hover {
+  color: #fbcbc9;
+}
+
+h3 {
+  color: #5fb2df;
+  text-align: center;
+}
+
+p:hover {
+  color: #ffffff;
+}
+
+p {
+  text-align: justify;
+  font-size: 20px;
+  text-indent: 50px;
+  margin-left: 25px;
+  margin-right: 15px;
+}
